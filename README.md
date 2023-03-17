@@ -1,2 +1,1 @@
-"# Javascript-Projects" 
-"# Javascript-Projects" 
+This folder contains javascript code from classes
